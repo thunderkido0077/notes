@@ -1,2 +1,2 @@
-# kadayadi-love
+# notes
 its simple
